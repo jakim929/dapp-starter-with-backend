@@ -1,4 +1,4 @@
-import { Address, Hex } from 'viem'
+import { Address } from 'viem'
 import { z } from 'zod'
 
 const envVarSchema = z.object({
